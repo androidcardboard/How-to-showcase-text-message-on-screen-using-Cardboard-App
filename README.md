@@ -1,5 +1,7 @@
 How to showcase text message on screen using Cardboard App
 ===========
+![](http://4.bp.blogspot.com/-PqP8QO5hwNA/VRuXHLsXNSI/AAAAAAAABM4/5dxZbXuZw-M/s1600/Screenshot_2015-02-22-14-34-36.png "Cardboard Home")
+
 This project aims at developing inexpensive virtual reality (VR) text messages for everyone on a click of a trigger. The 3ds file which is a part of animation has played a major role as it is the image file which is been used. This project enables users to know about the use of VR Cardboard and its functioning. 
 
 Notes- 
