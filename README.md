@@ -21,6 +21,7 @@ Step 3: Pull the magnet to see the text appearing on the image.
 Step 4: You will find the text message getting showcased and vice-verse on pulling the magnet each time.
 
 To know more, please follow the link:
-Part 1 -http://google-cardboard.blogspot.in/2015/04/virtual-reality-cardboard-messenger.html
-and 
-Part 2 -http://google-cardboard.blogspot.in/2015/04/virtual-reality-cardboard-messenger_5.html
+
+Part 1- http://google-cardboard.blogspot.in/2015/04/virtual-reality-cardboard-messenger.html
+
+Part 2- http://google-cardboard.blogspot.in/2015/04/virtual-reality-cardboard-messenger_5.html
